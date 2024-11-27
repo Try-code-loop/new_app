@@ -1,10 +1,10 @@
 streamlit
-pandas
 altair
-numpy
 sklearn.model_selection
 sklearn.preprocessing
 sklearn.ensemble
 imblearn.under_sampling
 sklearn.metrics
-scikit-learn
+Pandas==1.5.3
+NumPy==1.26.4
+Scikit-learn==1.5.2
