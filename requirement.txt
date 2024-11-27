@@ -7,3 +7,4 @@ sklearn.preprocessing
 sklearn.ensemble
 imblearn.under_sampling
 sklearn.metrics
+scikit-learn
