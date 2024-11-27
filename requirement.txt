@@ -8,3 +8,4 @@ sklearn.metrics
 Pandas==1.5.3
 NumPy==1.26.4
 Scikit-learn==1.5.2
+imbalanced-learn
