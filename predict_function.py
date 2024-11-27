@@ -1,5 +1,7 @@
 import pandas as pd
 import pickle
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
 
 # Data load
 with open('model.pkl', 'rb') as file:
